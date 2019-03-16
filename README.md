@@ -19,5 +19,3 @@ How to implement a new protocol -
 2) create a file called com.agoda.dm.spi.IFileDownloadManagerProvider and add an entry - Fully qualified name of implementation
 3) Keep this file in resources/META-INF/service directory and prepare a jar
 4) Drop this jar in class path. Done
-
-
