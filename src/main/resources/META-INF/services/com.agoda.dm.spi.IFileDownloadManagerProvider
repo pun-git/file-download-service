@@ -1,0 +1,2 @@
+com.agoda.dm.provider.http.HttpFileDownloadManagerProvider
+com.agoda.dm.provider.ftp.FtpFileDownloadManagerProvider
